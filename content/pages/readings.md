@@ -32,7 +32,7 @@ READINGS
 
 Introduction
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum1" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum1" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +50,7 @@ No readings
 
 Regulation of cell growth by the composition of its environment
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum2" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum2" %}}
 
 
 {{< tdclose >}}
@@ -74,7 +74,7 @@ Zetterberg, A., W. Engstrom, et al. "[The Relative Effects of Different Types of
 
 Identification and functional analysis of cell cycle components
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum3" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum3" %}}
 
 
 {{< tdclose >}}
@@ -98,7 +98,7 @@ Hartwell, L. H. "[Sequential Function of Gene Products Relative to DNA Synthesis
 
 Bacterial differentiation in response to starvation and cell signaling
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum4" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum4" %}}
 
 
 {{< tdclose >}}
@@ -122,7 +122,7 @@ Hahn, J., B. Maier, et al. "[Transformation Proteins and DNA Uptake Localize to 
 
 Lab Visit
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum5" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum5" %}}
 
 
 {{< tdclose >}}
@@ -140,7 +140,7 @@ No readings
 
 Genetic regulation of cell fate decision-making in yeast
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum6" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum6" %}}
 
 
 {{< tdclose >}}
@@ -164,7 +164,7 @@ Hongay, C. F., P. L. Grisafi, et al. "[Antisense Transcription Controls Cell Fat
 
 Growth and proliferation promoting pathways I: Ras
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum7" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum7" %}}
 
 
 {{< tdclose >}}
@@ -188,7 +188,7 @@ Simon, M. A., D. D. Bowtell, et al. "[Ras1 and a Putative Guanine Nucleotide Exc
 
 Growth and proliferation promoting pathways II: TOR
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum8" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum8" %}}
 
 
 {{< tdclose >}}
@@ -212,7 +212,7 @@ Korolchuk, V. I., S. Saiki, et al. "[Lysosomal Positioning Coordinates Cellular 
 
 Nutrient control of entry into sporulation
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum9" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum9" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +236,7 @@ Sagee, S., A. Sherman, et al. "[Multiple and Distinct Activation and Repression 
 
 Biofilm formation by yeast and bacteria
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum10" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum10" %}}
 
 
 {{< tdclose >}}
@@ -260,7 +260,7 @@ Smukalla, S., M. Caldara, et al. "[FLO1 Is a Variable Green Beard Gene that Driv
 
 Repression of Gene Transcription in the Absence of Environmental Stimuli
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum11" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum11" %}}
 
 
 {{< tdclose >}}
@@ -284,7 +284,7 @@ Garcia-Bassets, I., Y. S. Kwon, et al. "[Histone Methylation-Dependent Mechanism
 
 Environmental Control of Cellular Lifespan
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum12" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum12" %}}
 
 
 {{< tdclose >}}
@@ -308,7 +308,7 @@ Dang, W., K. K. Steffen, et al. "[Histone H4 Lysine 16 Acetylation Regulates Cel
 
 Part 1: Germ Cell Differentiation in Mammals
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum13a" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum13a" %}}
 
 
 {{< tdclose >}}
@@ -330,7 +330,7 @@ Lin, Y., M. E. Gill, et al. "[Germ Cell-intrinsic and -Extrinsic Factors Govern 
 
 Part 2: Growth pathways in disease and development
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum13b" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum13b" %}}
 
 
 {{< tdclose >}}
@@ -348,7 +348,7 @@ McCoy, M. S., J. J. Toole, et al. "[Characterization of a Human Colon/Lung Carci
 
 Final Oral Presentations
 
-{{< resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum14" >}}
+{{% resource_link 12b7c7ad-1a32-dea8-66de-0cd888fc6ce6 "See the Lecture Summary" "#lec_sum14" %}}
 
 
 {{< tdclose >}}
